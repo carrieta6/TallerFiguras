@@ -6,7 +6,29 @@
         <item>@string/volumenes</item>
         <item>@string/operacionesrealizadas</item>
     </array>
+    <array name="arrayOpcionesAreas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </array>
     <string name="areas">Áreas</string>
     <string name="volumenes">Volúmenes</string>
     <string name="operacionesrealizadas">Operaciones Realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="valorLado">Valor del Lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">Area:</string>
+    <string name="ok">Ok</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="valorDeBase">Valor de la Base</string>
+    <string name="valorDeAltura">Valor de la Altura</string>
+    <string name="radio">Radio</string>
 </resources>
