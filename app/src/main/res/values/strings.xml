@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerFiguras</string>
+    <string name="opciones">Opciones</string>
+    <array name="arrayOpciones">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operacionesrealizadas</item>
+    </array>
+    <string name="areas">Áreas</string>
+    <string name="volumenes">Volúmenes</string>
+    <string name="operacionesrealizadas">Operaciones Realizadas</string>
+</resources>
