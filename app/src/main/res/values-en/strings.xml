@@ -9,4 +9,20 @@
     <string name="circulo">Circle</string>
     <string name="rectangulo">Rectangle</string>
     <string name="triangulo">Triangle</string>
+    <string name="area">Area:</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="datos">Data</string>
+    <string name="esfera">Sphere</string>
+    <string name="no">No.</string>
+    <string name="ok">Ok</string>
+    <string name="operacion">Operation</string>
+    <string name="radio">Radio</string>
+    <string name="resultado">Result</string>
+    <string name="valorDeAltura">Value of the high</string>
+    <string name="valorDeBase">Value of the Base</string>
+    <string name="valorLado">Value of the Side</string>
 </resources>

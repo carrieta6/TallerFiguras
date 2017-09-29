@@ -26,7 +26,15 @@
         <activity android:name=".CuadradoResultado" />
         <activity android:name=".RectanguloResultado" />
         <activity android:name=".TrianguloResultado" />
-        <activity android:name=".CirculoResultado"></activity>
+        <activity android:name=".CirculoResultado" />
+        <activity android:name=".Esfera" />
+        <activity android:name=".Cilindro" />
+        <activity android:name=".Cono" />
+        <activity android:name=".Cubo" />
+        <activity android:name=".EsferaResultado" />
+        <activity android:name=".CilindroResultado" />
+        <activity android:name=".ConoResultado" />
+        <activity android:name=".CuboResultado"></activity>
     </application>
 
 </manifest>
